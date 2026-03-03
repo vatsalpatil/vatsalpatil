@@ -20,11 +20,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vatsalpatil&theme=algolia&row=1&column=6&margin-w=10&margin-h=10"/>
-</p>
-
----
 
 ## 🚀 About Me
 
