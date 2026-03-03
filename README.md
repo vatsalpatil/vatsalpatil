@@ -121,22 +121,6 @@ June 2022 – April 2023
 - Trigger-based data processing & reporting  
 - Automated monitoring systems  
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsalpatil&show_icons=true&theme=tokyonight&count_private=true&border_radius=12" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalpatil&layout=compact&theme=tokyonight&border_radius=12" height="165"/>
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://github.com/vatsalpatil/vatsalpatil/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
