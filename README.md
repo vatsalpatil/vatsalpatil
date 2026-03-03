@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=80&duration=3500&pause=800&color=00F7FF&lines=Hi+👋+I'm+Vatsal+Patil;Financial+Data+Analyst;Quant+Developer;Building+High-Performance+Trading+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=80&duration=3500&pause=800&color=00F7FF&lines=Hi+👋+I'm+Vatsal+Patil;Financial+Data+Analyst;Developing+Smart+Trading+Systems" />
 </h1>
 
 <h3 align="center">
