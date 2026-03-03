@@ -1,129 +1,160 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=80&duration=3500&pause=800&color=00F7FF&lines=Hi+👋+I'm+Vatsal+Patil;Financial+Data+Analyst;Quant+Developer;Building+High-Performance+Trading+Systems" />
+</h1>
 
-# <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Vatsal+Patil+!!!;" /></h1>
-
-### <h3 align="center"> I'm an apprentice of data.</h3>
-
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/vatsal-patil-799330192/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vatsalpatil">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/vatsalpatil1308">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-## About Me 🚀
-
-https://github.com/vatsalpatil/vatsalpatil/assets/84773161/c982da9a-81c6-4028-bebb-26715a29dd36
-
-
-I am a passionate Data Analyst with a strong background in data analysis, business intelligence, and data-driven decision-making. I thrive on turning complex data into actionable insights and driving strategic decision-making. Let's embark on an exciting journey of data exploration together! 🌐📊
-
-
-<h2 align="center"> GitHub Statistics 📈</h2>
-
-<div>
-  
-<br>
-<div align=center>
-  <table>
-    <tr>
-      <td>
-        <img width=390 src="https://github-readme-stats.vercel.app/api?username=vatsalpatil&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-      </td>
-      <td>
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalpatil&hide=TeX,JavaScript&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-      </td>
-    </tr>
-  </table>
-</div>
-</div>
-
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=vatsalpatil&theme=radical&row=1&column=7" alt="GitHub Trophies">
-    </td>
-  </tr>
-</table>
-
-
-<br>
-
-## Languages and Tools 🛠️
-
-<br>
+<h3 align="center">
+⚡ Turning Complex Financial Data into Intelligent Trading Infrastructure ⚡
+</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/45109702?s=200&v=4" alt="Streamlit" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small/microsoft-excel-icon-logo-symbol-free-png.png" alt="Excel" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vatsal-patil-799330192/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vatsalpatil">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:vatsalpatil1308@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<br>
-
-## Work Experience 💼
-
-### Data Analyst Intern at Elite Technocrats, Surat (06/2022 - 04/2023)
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Work Experience GIF" width="300">
+  <img src="https://github-profile-trophy.vercel.app/?username=vatsalpatil&theme=algolia&row=1&column=6&margin-w=10&margin-h=10"/>
 </p>
 
-- Developed a custom Algorithmic Trading program for Jainam Broking Limited, enabling automated live market trading and improving stock market indicators' performance and accuracy by 30%. 💹📈
-- Collaborated with the Jainam finance team to integrate the algorithmic trading program into their trading platform, reducing manual trading errors by 25% and enhancing operational efficiency. ⚡💻
-- Utilized stock market expertise to develop advanced mathematical models and formulas for algorithmic trading, resulting in a new API delivering real-time market data in JSON format, improving functionality and accessibility for clients. 📊🔍
-- Earned positive feedback for exceptional Analytical Expertise and Versatility while developing the algorithmic trading program, contributing to the successful deployment of the automated trading solution. 👏🎉
-- Implemented the algo trading program, leading to a 20% increase in client satisfaction and retention for Jainam. 😃🚀
-- **Currently working at success sure as a business and financial market analyst.📊📈**
+---
 
-<br>
+## 🚀 About Me
 
-## Technical Skills 💻
+I build systems where **Data meets capital**.
 
-- **Data Analysis (Intermediate)**: Data Visualization, Data Preprocessing, Business Analysis, Business Intelligence Tools, Statistical Modeling
-- **Programming Languages**: Python, C, HTML, CSS
-- **Data Analysis Libraries**: Pandas, Plotly, NumPy, Scikit-Learn, Streamlit, Django, FastAPI
-- **Databases**: DBMS, SQL, MySQL
-- **Visualization Tools**: Microsoft Excel, Microsoft Power BI
-- **Other Skills**: Prompt Engineering, Algorithm Development, Mathematical Modeling
+With 3+ years in financial data engineering and algorithmic trading, I specialize in designing high-performance backtesting engines, real-time analytics platforms, and automation-driven trading workflows.
 
-<br>
+My work lives at the intersection of:
 
-## Education 🎓
+• Quantitative strategy optimization  
+• High-frequency time-series processing  
+• Production-grade financial APIs  
+• Intelligent automation systems  
 
+I don’t just analyze markets —  
+I engineer infrastructure that tests, validates, and deploys trading logic under real-world conditions.
 
-- **Diploma in Electrical Engineering** from Dr. S. & S.S. Ghandhy College, Surat (2020) - 7.20 CGPA 🏆
-- **Bachelor's Degree in Computer Engineering** from Bhagwan Arihant Institute of Technology, Surat (2023) - 8.22 CGPA 🎓
+From cleaning multi-year 1-minute datasets to achieving sub-second execution speeds using Polars, my focus is simple:
 
+**Precision. Performance. Scalability.**
 
+Currently building smarter trading systems and financial intelligence tools.
+
+---
+
+## 🔥 What I’m Currently Focused On
+
+- Ultra-fast backtesting engines using Polars  
+- Volatility regime-based strategy optimization  
+- Intelligent automation workflows using n8n  
+- Real-time analytics dashboards (FastAPI + React + shadcn/ui)  
+- Production-grade trading infrastructure  
+
+---
+
+## 💼 Professional Experience
+
+### Financial Data Analyst — Successure  
+May 2024 – Present  
+
+- Engineered performance-optimized backtesting systems  
+- Processed 5+ years of high-frequency market data  
+- Built real-time trading analysis platform  
+- Designed automation workflows for strategy monitoring  
+- Achieved sub-second execution speeds  
+
+### Data Analyst — Elite Technocrats  
+June 2022 – April 2023  
+
+- Built custom live algorithmic trading engine  
+- Improved indicator accuracy by 30%  
+- Reduced manual trading errors by 25%  
+- Developed real-time JSON-based data API  
+- Designed mathematical trading models  
+
+---
+
+## 🛠 Tech Arsenal
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
+<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="50" style="border-radius:50%;" />
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="50" style="border-radius:50%;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+
+</p>
+
+---
+
+## 🏗 Flagship Projects
+
+### Advanced All-in-One SIP Simulator
+- Accumulation → Retirement withdrawal  
+- Inflation-adjusted modeling  
+- Expense & tax drag simulation  
+- Real vs nominal returns breakdown  
+
+### High-Performance Backtesting Engine
+- Multi-parameter optimization  
+- Volatility regime classification  
+- Sub-second time-series processing  
+
+### Historical Trades Analytics Dashboard
+- Win rate modeling  
+- P&L distribution analysis  
+- Drawdown tracking  
+- 15% performance improvement in ranging markets  
+
+### Automation & Workflow Systems
+- Built intelligent trading workflows using n8n  
+- Trigger-based data processing & reporting  
+- Automated monitoring systems  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsalpatil&show_icons=true&theme=tokyonight&count_private=true&border_radius=12" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalpatil&layout=compact&theme=tokyonight&border_radius=12" height="165"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/vatsalpatil/vatsalpatil/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎓 Education
+
+Bachelor of Engineering (Computer Engineering)  
+Bhagwan Arihant Institute of Technology — CGPA: 8.22  
+
+Diploma in Electrical Engineering  
+Dr. S. & S.S. Ghandhy College — CGPA: 7.20  
+
+---
+
+<h3 align="center">
+Building Trading Systems. Optimizing Performance. Engineering Financial Intelligence.
+</h3>
